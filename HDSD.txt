@@ -1,0 +1,8 @@
+Trò chơi Xếp hình Teris
+
+1. Để bắt đầu chơi, người chơi ấn chuột vào nút Play trên màn hình
+2. Tại màn hình trò chơi, các khối hình sẽ lần lượt đi xuống trong khung trò chơi. Người chơi sử dụng các nút mũi tên để di chuyển khối hình:
+	+ Mũi tên trái/phải: Di chuyển khối hình sang trái/phải 1 ô
+	+ Mũi tên xuống: Khối hình di chuyển xuống nhanh hơn
+	+ Mũi tên lên: Xoay khối hình
+3. Khi khối hình chạm vào cạnh trên của khung trò chơi, trò chơi kết thúc. Người chơi có thể chọn chơi lại hoặc thoát trò chơi
